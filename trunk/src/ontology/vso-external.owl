@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://purl.obolibrary.org/obo/"
-     xml:base="http://www.buffalo.edu/~ag33/"
+<rdf:RDF xmlns="http://purl.obolibrary.org/obo/VSO#"
+     xml:base="http://purl.obolibrary.org/obo/vso.owl"
      xmlns:dc="http://purl.org/dc/elements/1.1/"
      xmlns:ro="http://www.obofoundry.org/ro/ro.owl#"
      xmlns:protege="http://protege.stanford.edu/plugins/owl/protege#"
@@ -14,7 +14,7 @@
      xmlns:PATO="http://purl.org/obo/owl/PATO#"
      xmlns:GO="http://purl.org/obo/owl/GO#"
      xmlns:FMA="http://purl.org/obo/owl/FMA#">
-    <owl:Ontology rdf:about="http://www.buffalo.edu/~ag33/vso-external.owl">
+    <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/vso-external.owl">
         <rdfs:comment rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This file is the MIREOT specification file - see http://obi-ontology.org/page/MIREOT</rdfs:comment>
     </owl:Ontology>
     
