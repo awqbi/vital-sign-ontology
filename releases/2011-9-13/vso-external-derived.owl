@@ -20,8 +20,8 @@
     xmlns:PATO="http://purl.org/obo/owl/PATO#"
     xmlns:GO="http://purl.org/obo/owl/GO#"
     xmlns:FMA="http://purl.org/obo/owl/FMA#"
-  xml:base="http://purl.obolibrary.org/obo/vso-external-derived.owl">
-  <owl:Ontology rdf:about="http://purl.obolibrary.org/obo/vso-external-derived.owl"/>
+  xml:base="http://vital-sign-ontology.googlecode.com/releases/2011-9-13/vso-external-derived.owl">
+  <owl:Ontology rdf:about="http://vital-sign-ontology.googlecode.com/releases/2011-9-13/vso-external-derived.owl"/>
 
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
