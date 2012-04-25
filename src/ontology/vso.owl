@@ -625,6 +625,12 @@
             </owl:Class>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000029"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/CMO/CMO_0000003"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/75367002"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MSH/D001794"/>
+	<rdfs:seeAlso rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Blood_Pressure"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/LNC/LP40259-1"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MDR/10005727"/>
         <obo:IAO_0000119>http://en.wikipedia.org/wiki/Blood_pressure</obo:IAO_0000119>
         <obo:IAO_0000115 xml:lang="en">The pressure exerted by circulating blood on the walls of blood vessels.</obo:IAO_0000115>
         <obo:IAO_0000116>Unless otherwise specified, a clinical report of a blood pressure is systolic left ventricular pressure over diastolic left ventricular pressure.</obo:IAO_0000116>
@@ -687,6 +693,11 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000029"/>
         <obo:IAO_0000117>Albert Goldfain</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">The temperature of a part of the human body</obo:IAO_0000115>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/CMO/CMO_0000015"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/386725007"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MSH/D001831"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/LNC/LP29701-7"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MDR/10005906"/>
     </owl:Class>
     
 
@@ -1057,6 +1068,12 @@
                 <owl:someValuesFrom rdf:resource="http://purl.org/obo/owl/FMA#FMA_50720"/>
             </owl:Restriction>
         </rdfs:subClassOf>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/CMO/CMO_0000294"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/78564009"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MSH/D006339"/>
+	<rdfs:seeAlso rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Pulse_Rate"/>
+	<rdfs:seeAlso rdf:resource="http://www.co-ode.org/ontologies/galen#Pulse"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MDR/10037485"/>
         <obo:IAO_0000117>Albert Goldfain</obo:IAO_0000117>
         <obo:IAO_0000115 xml:lang="en">The rate at which an artery pulses (i.e., participates in expansion-contraction cycles) as blood passes through it.</obo:IAO_0000115>
     </owl:Class>
@@ -1142,6 +1159,13 @@
         <rdfs:subClassOf rdf:resource="http://purl.obolibrary.org/obo/OGMS_0000029"/>
         <rdfs:subClassOf rdf:resource="http://purl.org/obo/owl/PATO#PATO_0000161"/>
         <obo:IAO_0000115>The rate at which an organism breathes.</obo:IAO_0000115>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/CMO/CMO_0000289"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/SNOMEDCT/86290005"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MSH/D056152"/>
+	<rdfs:seeAlso rdf:resource="http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Respiratory_Rate"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/LNC/MTHU008344"/>
+	<rdfs:seeAlso rdf:resource="http://www.co-ode.org/ontologies/galen#RespiratoryRate"/>
+	<rdfs:seeAlso rdf:resource="http://purl.bioontology.org/ontology/MDR/10038709"/>
     </owl:Class>
     
 
