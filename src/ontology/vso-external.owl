@@ -12,7 +12,7 @@
      xmlns:PATO="http://purl.org/obo/owl/PATO#"
      xmlns:GO="http://purl.org/obo/owl/GO#"
      xmlns:FMA="http://purl.org/obo/owl/FMA#">
-    <owl:Ontology rdf:about="http://vital-sign-ontology.googlecode.com/svn/trunk/src/ontology/vso-external.owl">
+    <owl:Ontology rdf:about="https://github.com/awqbi/vital-sign-ontology/tree/master/src/ontology/vso-external.owl">
         <rdfs:comment rdf:datatype="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">This file is the MIREOT specification file - see http://obi-ontology.org/page/MIREOT</rdfs:comment>
     </owl:Ontology>
     

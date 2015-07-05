@@ -18,7 +18,7 @@
      xmlns:rotoo="http://purl.org/obo/owl/ro#"
      xmlns:daml="http://www.daml.org/2001/03/daml+oil#"
      xmlns:GO="http://purl.org/obo/owl/GO#">
-    <owl:Ontology rdf:about="http://vital-sign-ontology.googlecode.com/svn/trunk/src/ontology/vso-external-derived.owl"/>
+    <owl:Ontology rdf:about="https://github.com/awqbi/vital-sign-ontology/tree/master/src/ontology/vso-external-derived.owl"/>
     
 
 
